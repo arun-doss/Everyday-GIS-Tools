@@ -1,0 +1,14 @@
+Scope: ArcPyScript to Merge all GDB feature classes present in a folder to a single GDB
+
+Queries:
+Water about feature sets? Does that have to be copied to the merged GDB as feature class or feature sets itself 
+What about duplicates?
+What will be standard input for GDB/MDB?
+What is the required output format, GDB/MDB?
+Does the Script have to stored as a ArcGIS Script tool also? can be done if required.
+
+Assumptions:
+1. User will have a ArcGIS Standard or Advanced License.
+2. Users will input the Folder path as input.
+
+
